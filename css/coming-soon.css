@@ -194,13 +194,13 @@ video {
 }
 
 .btn-secondary {
-  background-color: #cd9557;
-  border-color: #cd9557;
+  background-color: #7600a9;
+  border-color: #7600a9;
 }
 
 .btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
-  background-color: #ba7c37 !important;
-  border-color: #ba7c37 !important;
+  background-color: #7600a9 !important;
+  border-color: #7600a9 !important;
 }
 
 .input {
